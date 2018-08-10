@@ -1,6 +1,0 @@
-com\perficient\blackhills\SpringBootRestApiApp.class
-com\perficient\blackhills\model\User.class
-com\perficient\blackhills\service\UserServiceImpl.class
-com\perficient\blackhills\controller\RestApiController.class
-com\perficient\blackhills\service\UserService.class
-com\perficient\blackhills\util\CustomErrorType.class
